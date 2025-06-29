@@ -1,0 +1,14 @@
+[
+  {
+    "INSTRUCTION": "¿Qué es la gravedad?",
+    "RESPONSE": "La gravedad es la fuerza de atracción entre objetos con masa."
+  },
+  {
+    "INSTRUCTION": "Define el concepto de 'democracia'.",
+    "RESPONSE": "La democracia es un sistema de gobierno donde el poder reside en el pueblo."
+  },
+  {
+    "INSTRUCTION": "Busca en internet sobre 'el futuro de la inteligencia artificial'",
+    "RESPONSE": "La IA avanza hacia modelos más generales y éticos."
+  }
+]
